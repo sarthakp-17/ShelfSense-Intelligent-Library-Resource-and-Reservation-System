@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+.vscode/
+books.txt
+members.txt
+borrow_records.txt
+reservations.txt
+reservation_history.txt
